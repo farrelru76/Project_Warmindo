@@ -2,6 +2,8 @@
 
 Merapikan 499 transaksi dengan Excel dan menyajikannya dalam dashboard Tableau untuk melihat menu, hari, dan pola pembayaran yang menggerakkan omzet.
 
+See Details for public [Tableau]([https://github.com/farrelru76](https://public.tableau.com/app/profile/geccco.utama/viz/Book1_17901849017310/Dashboard12?publish=yes))
+
 ![Dashboard Tableau](image/warmindo.PNG)
 
 ## Latar Belakang
